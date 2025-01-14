@@ -3,8 +3,6 @@ title: Opinião de João Bosco Mota Amaral
 layout: default
 permalink: /
 ---
-(página em desenvolvimento)
-
 # Últimas
 <ul>
   {% for post in site.posts %}
